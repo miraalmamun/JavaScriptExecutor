@@ -1,8 +1,8 @@
 # JavaScriptExecutor
-Flashing an Element
-Drawing a Border around the Element
-Capture title of the Page
-Click in some Element
-Generate alert info
-Refreshing Page
-Scrolling Page(Very important day to day coding)
+(i)Flashing an Element
+(ii)Drawing a Border around the Element
+(iii)Capture title of the Page
+(iv)Click in some Element
+(v)Generate alert info
+(vi)Refreshing Page
+(vii)Scrolling Page(Very important day to day coding)
